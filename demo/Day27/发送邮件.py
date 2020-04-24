@@ -1,7 +1,7 @@
 '''
 发送邮件.py
 @Author : su 
-@Time   : 2020/04/24 21:32:17
+@Time   : 2020/04/24
 '''
 import smtplib
 import email
