@@ -1,1 +1,19 @@
-{"name": "Jack", "age": 20, "qq": 123456, "friends": ["BOb", "Mary"], "car": [{"brand": "\u5965\u8fea", "max-speed": 280}, {"brand": "\u5954\u9a70", "max-speed": 320}]}
+{
+    "name": "Jack",
+    "age": 20,
+    "qq": 123456,
+    "friends": [
+        "BOb",
+        "Mary"
+    ],
+    "car": [
+        {
+            "brand": "奥迪",
+            "max-speed": 280
+        },
+        {
+            "brand": "奔驰",
+            "max-speed": 320
+        }
+    ]
+}
